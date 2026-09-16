@@ -8,7 +8,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat&logo=jupyter&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Data%20Wrangling-150458?style=flat&logo=pandas&logoColor=white)
 
-> **El proyecto más avanzado de la carrera.** Cinco notebooks que recorren el ciclo completo de IA aplicada a negocio: segmentación no supervisada de clientes, clasificación supervisada optimizada por costo de negocio, un chatbot conversacional con LLM, un caso de consultoría real con **HSBC** donde GPT-4o-mini genera informes ejecutivos automáticos por cluster B2B, y un pipeline de audio-a-texto con Whisper + NLP. Curados de la materia **AI Empresarial** (S6), Licenciatura en Innovación y Tecnología (**LIT**), Tecnológico de Monterrey.
+> **El proyecto más avanzado de la carrera.** Cinco notebooks que recorren el ciclo completo de IA aplicada a negocio: segmentación no supervisada de clientes, clasificación supervisada optimizada por costo de negocio, un chatbot conversacional con LLM, un caso de consultoría real con **HSBC** donde GPT-4o-mini genera informes ejecutivos automáticos por cluster B2B, y un pipeline de audio-a-texto con Whisper + NLP. Curados de la materia **AI Empresarial** (S6), Licenciatura en Inteligencia de Negocios (**LIN**), Tecnológico de Monterrey.
 
 ---
 
@@ -88,7 +88,7 @@ flowchart LR
 | | |
 |---|---|
 | **Institución** | Tecnológico de Monterrey (Tec de Monterrey), Campus Santa Fe |
-| **Programa** | Licenciatura en Innovación y Tecnología (**LIT**) |
+| **Programa** | Licenciatura en Inteligencia de Negocios (**LIN**) |
 | **Materia** | AI Empresarial — CD3002C.601 |
 | **Semestre** | S6 |
 | **Equipo** | Equipo 5 — Ludovic Delot Bravo, Gonzalo González Méndez, Anakarenina Serrano Ibarra, Mónica Estrada Mondragón |
@@ -306,7 +306,7 @@ bsc-ai-empresarial-hsbc-clustering/
 
 ## 🙌 Créditos
 
-**Equipo 5** — Materia AI Empresarial, S6, Licenciatura en Innovación y Tecnología (LIT), Tecnológico de Monterrey:
+**Equipo 5** — Materia AI Empresarial, S6, Licenciatura en Inteligencia de Negocios (LIN), Tecnológico de Monterrey:
 
 - Ludovic Delot Bravo (A01663977)
 - Gonzalo González Méndez (A01784359)
