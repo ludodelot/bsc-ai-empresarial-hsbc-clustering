@@ -1,0 +1,31 @@
+"industria","impacto_cluster","empresas"
+"Agricultura","Alto",13
+"Agricultura","Bajo",122
+"Agricultura","Medio",13
+"Comercio","Alto",6
+"Comercio","Bajo",121
+"Comercio","Medio",22
+"Construcción","Alto",12
+"Construcción","Bajo",126
+"Construcción","Medio",16
+"Energía","Alto",8
+"Energía","Bajo",133
+"Energía","Medio",11
+"Manufactura","Alto",8
+"Manufactura","Bajo",130
+"Manufactura","Medio",23
+"Salud","Alto",6
+"Salud","Bajo",115
+"Salud","Medio",14
+"Servicios Financieros","Alto",12
+"Servicios Financieros","Bajo",107
+"Servicios Financieros","Medio",28
+"Tecnología","Alto",9
+"Tecnología","Bajo",127
+"Tecnología","Medio",14
+"Telecomunicaciones","Alto",13
+"Telecomunicaciones","Bajo",119
+"Telecomunicaciones","Medio",18
+"Transporte","Alto",9
+"Transporte","Bajo",135
+"Transporte","Medio",9

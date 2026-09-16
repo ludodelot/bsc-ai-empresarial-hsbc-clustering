@@ -1,0 +1,17 @@
+openai>=1.0.0
+python-dotenv
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+gradio
+tqdm
+tenacity
+librosa
+soundfile
+datasets
+requests
+packaging
